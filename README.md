@@ -2,5 +2,5 @@
 
 this repository is for blogging to gentlesark
 
-welcome to connet my blog
+welcome to my blog
 http://gentlesark.tistory.com
